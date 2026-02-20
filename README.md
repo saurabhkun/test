@@ -139,7 +139,9 @@ Based on our primary research survey of **2,300+ data points** and global munici
 ├── 🌐 web_admin/           # Source code for the SMC Dashboard
 ├── 📄 docs/                # System Architecture, Pitch Deck, and Survey Data
 └── 📝 README.md            # Project documentation
+
 ```
+
 <div align="center">
 Made with ❤️ by <b>Team Rashmirathi</b> for <b>SAMVED Hackathon 2026</b>
 </div>
